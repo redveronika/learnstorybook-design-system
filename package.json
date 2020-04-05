@@ -18,7 +18,8 @@
     "@storybook/addons": "^5.3.17",
     "@storybook/preset-create-react-app": "^2.1.1",
     "@storybook/react": "^5.3.17",
-    "prettier": "^2.0.2"
+    "prettier": "^2.0.2",
+    "storybook-chromatic": "^3.5.2"
   },
   "scripts": {
     "storybook": "start-storybook -p 9009",
